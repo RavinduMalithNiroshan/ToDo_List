@@ -1,0 +1,164 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\todolistapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\todolistapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\todolistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\todolistapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\todolistapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\todolistapp.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|d:\\ravindu\\prorammig test\\asp.net core web api with angular\\api testing projects\\c# asp.net core web api testing project todo app\\todolistapp\\todolistapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1887A0D-E342-49F2-ACAD-11A1C0496523}|ToDoListApp\\ToDoListApp.csproj|solutionrelative:todolistapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToDoListApp",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\ToDoListApp.csproj",
+              "RelativeDocumentMoniker": "ToDoListApp\\ToDoListApp.csproj",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\ToDoListApp.csproj",
+              "RelativeToolTip": "ToDoListApp\\ToDoListApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-07T04:50:14.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Models\\TodoItem.cs",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\Models\\TodoItem.cs",
+              "RelativeToolTip": "ToDoListApp\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:46:36.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoListApp.csproj",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\ToDoListApp.csproj",
+              "RelativeDocumentMoniker": "ToDoListApp\\ToDoListApp.csproj",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\ToDoListApp.csproj",
+              "RelativeToolTip": "ToDoListApp\\ToDoListApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-03T06:45:38.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ToDoListApp\\appsettings.json",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\appsettings.json",
+              "RelativeToolTip": "ToDoListApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T11:59:50.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "ToDoListApp\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T11:43:50.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListApp\\Program.cs",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\Program.cs",
+              "RelativeToolTip": "ToDoListApp\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T09:59:22.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ToDoListApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ToDoListApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T09:58:45.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ToDoListApp.http",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\ToDoListApp.http",
+              "RelativeDocumentMoniker": "ToDoListApp\\ToDoListApp.http",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\ToDoListApp.http",
+              "RelativeToolTip": "ToDoListApp\\ToDoListApp.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-02T09:58:31.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ToDoListApp\\appsettings.Development.json",
+              "ToolTip": "D:\\Ravindu\\Prorammig Test\\ASP.Net Core Web API with Angular\\API Testing Projects\\C# ASP.NET CORE WEB API testing project ToDo App\\ToDoListApp\\ToDoListApp\\appsettings.Development.json",
+              "RelativeToolTip": "ToDoListApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T09:58:22.507Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

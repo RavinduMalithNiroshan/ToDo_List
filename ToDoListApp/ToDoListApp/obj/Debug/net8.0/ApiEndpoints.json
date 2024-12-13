@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "ToDoListApp.Controllers.TodoController",
+    "Method": "AddTask",
+    "RelativePath": "api/Todo/add_task",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "ToDoListApp.Controllers.TodoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoListApp.Controllers.TodoController",
+    "Method": "DeleteTask",
+    "RelativePath": "api/Todo/delete_task/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoListApp.Controllers.TodoController",
+    "Method": "GetTasks",
+    "RelativePath": "api/Todo/get_tasks",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ToDoListApp.Controllers.TodoController",
+    "Method": "UpdateTask",
+    "RelativePath": "api/Todo/update_task",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "task",
+        "Type": "ToDoListApp.Controllers.TodoItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

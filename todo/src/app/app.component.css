@@ -1,0 +1,90 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #e9ecef; /* Light grey background */
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 600px; /* Center the container */
+  margin: 50px auto; /* Center alignment */
+  padding: 30px;
+  background-color: #ffffff; /* White background for container */
+  border-radius: 12px; /* More rounded corners */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Deeper shadow for depth */
+}
+
+.title {
+  text-align: center; /* Center the title */
+  color: #007bff; /* Bootstrap Primary Color */
+  margin-bottom: 25px; /* Spacing below the title */
+  font-size: 2rem; /* Larger font size */
+  text-transform: uppercase; /* Uppercase for emphasis */
+}
+
+.task-form, .update-form {
+  display: flex; /* Flexbox for input and button */
+  justify-content: space-between; /* Space between input and button */
+  margin-bottom: 25px; /* Spacing below forms */
+}
+
+.task-input, .update-input {
+  flex: 1; /* Take available space */
+  padding: 12px; /* Increased padding for better touch experience */
+  border: 2px solid #007bff; /* Border color */
+  border-radius: 8px; /* Rounded corners */
+  margin-right: 15px; /* Spacing between input and button */
+  transition: border-color 0.3s ease; /* Smooth transition for focus */
+}
+
+.task-input:focus, .update-input:focus {
+  border-color: #a1058d; /* Darker blue on focus */
+  outline: none; /* Remove default outline */
+}
+
+.add-button, .update-button, .edit-button, .delete-button {
+  background-color: #007bff; /* Button color */
+  color: white; /* Text color */
+  padding: 12px 20px; /* Increased button padding */
+  border: none; /* Remove border */
+  border-radius: 8px; /* Rounded corners */
+  cursor: pointer; /* Pointer on hover */
+  transition: background-color 0.3s ease, transform 0.2s ease; /* Smooth transition */
+}
+
+.add-button:hover, .update-button:hover, .edit-button:hover, .delete-button:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+  transform: translateY(-2px); /* Lift effect on hover */
+}
+
+.task-list {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove padding */
+}
+
+.task-item {
+  display: flex; /* Flexbox for item layout */
+  justify-content: space-between; /* Space between text and buttons */
+  align-items: center; /* Align items vertically */
+  padding: 15px; /* Padding around items */
+  border-bottom: 1px solid #e9ecef; /* Bottom border for separation */
+  transition: background-color 0.3s ease; /* Smooth background change */
+}
+
+.task-item:hover {
+  background-color: #f1f1f1; /* Highlight on hover */
+}
+
+.task-text {
+  flex: 1; /* Allow text to take available space */
+  font-size: 1.1rem; /* Slightly larger font size for tasks */
+  color: #333; /* Darker text color */
+}
+
+.task-actions {
+  display: flex; /* Flexbox for action buttons */
+}
+
+.edit-button, .delete-button {
+  margin-left: 10px; /* Space between action buttons */
+}

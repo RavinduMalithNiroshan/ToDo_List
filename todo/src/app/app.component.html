@@ -1,0 +1,37 @@
+<div class="container">
+  <h1 class="title">ToDo Application</h1>
+  
+  <form (ngSubmit)="addTask(taskForm)" #taskForm="ngForm" class="task-form">
+    <input 
+      type="text" 
+      [(ngModel)]="newTask" 
+      name="task" 
+      placeholder="Add a new task..." 
+      required 
+      class="task-input"
+    />
+    <button type="submit" class="add-button">Add Task</button>
+  </form>
+
+  <ul class="task-list">
+    <li *ngFor="let item of tasks" class="task-item">
+      <span class="task-text">{{ item.task }}</span>
+      <div class="task-actions">
+        <button (click)="startUpdateTask(item)" class="edit-button">Edit</button>
+        <button (click)="deleteTask(item.id)" class="delete-button">Delete</button>
+      </div>
+    </li>
+  </ul>
+
+  <form *ngIf="updateTaskId" (ngSubmit)="updateTask()" class="update-form">
+    <input 
+      type="text" 
+      [(ngModel)]="updateTaskText" 
+      name="updateTask" 
+      placeholder="Update your task..." 
+      required 
+      class="update-input"
+    />
+    <button type="submit" class="update-button">Update Task</button>
+  </form>
+</div>
